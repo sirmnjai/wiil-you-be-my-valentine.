@@ -4,7 +4,7 @@ import Swal from "sweetalert2";
 import { BsVolumeUpFill, BsVolumeMuteFill } from "react-icons/bs";
 
 import MouseStealing from './MouseStealer.jsx';
-import lovesvg from "./assets/All You Need Is Love SVG Cut File.svg";
+import lovesvg from "./assets/All You Need Is Love.jpeg";
 import Lovegif from "./assets/GifData/main_temp.gif";
 import heartGif from "./assets/GifData/happy.gif";
 import sadGif from "./assets/GifData/sad.gif";
