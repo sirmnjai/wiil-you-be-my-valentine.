@@ -53,7 +53,7 @@ import nomusic5 from "./assets/AudioTracks/Reject1_TooGood.mp3";
 const YesGifs = [yesgif0, yesgif1, yesgif2, yesgif3, yesgif4, yesgif5, yesgif6, yesgif7, yesgif8, yesgif9, yesgif10, yesgif11];
 const NoGifs = [nogif0, nogif0_1, nogif1, nogif2, nogif3, nogif4, nogif5, nogif6, nogif7, nogif8];
 const YesMusic = [yesmusic1, yesmusic3, yesmusic4, yesmusic2];
-const NoMusic = [nomusic1, nomusic2, nomusic3, nomusic4, nomusic5];
+const NoMusic = [nomusic3, nomusic4, nomusic3, nomusic4, nomusic5];
 
 export default function Page() {
   const [noCount, setNoCount] = useState(0);
